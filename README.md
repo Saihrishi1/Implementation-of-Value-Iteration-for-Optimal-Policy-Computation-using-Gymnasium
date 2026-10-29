@@ -155,6 +155,12 @@ env.close()
 
 ## Output
 
+Environment:
+<br>
+<br>
+<img width="157" height="153" alt="image" src="https://github.com/user-attachments/assets/01f91942-f76c-4f51-be30-7d13d160dc6f" />
+<br>
+<br>
 <img width="681" height="362" alt="image" src="https://github.com/user-attachments/assets/bb6bf875-243b-4be4-b656-25665d739a10" />
 
 ---
